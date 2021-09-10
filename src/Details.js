@@ -2,7 +2,7 @@ import React from 'react'
 import DetailsTable from './DetailsTable'
 import DetailsChart from './DetailsChart'
 import './details.css'
-
+//some changes for confirming
 const Details = (props) =>{
     const { files } = props
 
